@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kiwtech-solution.vercel.app/sitemap.xml
+Sitemap: https://kiwtech.com/sitemap.xml
